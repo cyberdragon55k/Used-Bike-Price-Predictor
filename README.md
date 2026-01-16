@@ -63,6 +63,14 @@ Unlike simple calculators, this app features a **Marketplace Recommender System*
 
 ---
 
+## 📁 Dataset
+The model was trained on a comprehensive dataset of **32,648 used bike listings**.
+* **Source:** [Kaggle - Used Bikes in India](https://www.kaggle.com/) *(Or paste your GitHub link if you don't have the original)*
+* **Features:** `kms_driven`, `age`, `engine_capacity`, `brand`, `price`.
+* **Preprocessing:** Cleaned outliers and handled missing values using Pandas.
+
+---
+
 ## 🧠 Machine Learning Approach
 
 ### 📁 Dataset
