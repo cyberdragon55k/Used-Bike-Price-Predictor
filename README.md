@@ -1,4 +1,7 @@
-# 🏍️ Used Bike Price Predictor - https://used-bike-price.streamlit.app/
+# 🏍️ Used Bike Price Predictor
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://used-bike-price.streamlit.app/) 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/AdityaNamdev/bike-price-predictor)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit)
