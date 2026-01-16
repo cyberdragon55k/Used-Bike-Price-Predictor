@@ -1,9 +1,13 @@
-# 🏍️ Used Bike Price Predictor - https://used-bike-price.streamlit.app/ [huggingface](https://huggingface.co/spaces/AdityaNamdev/bike-price-predictor)
+# 🏍️ Used Bike Price Predictor - https://used-bike-price.streamlit.app/
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces/AdityaNamdev/bike-price-predictor)
+
 
 ### A Machine Learning-powered dashboard that estimates the fair market value of used motorcycles with **94% accuracy**.
 
