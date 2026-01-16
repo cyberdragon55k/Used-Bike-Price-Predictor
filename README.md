@@ -1,5 +1,5 @@
 # 🏍️ Used Bike Price Predictor - https://used-bike-price.streamlit.app/
-
+https://huggingface.co/spaces/AdityaNamdev/bike-price-predictor
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
