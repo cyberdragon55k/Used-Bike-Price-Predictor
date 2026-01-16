@@ -72,8 +72,6 @@ The model was trained on a comprehensive dataset of **32,648 used bike listings*
 ---
 
 ## 🧠 Machine Learning Approach
-
-### 📁 Dataset
 - Real-world used bike listings across Indian cities  
 - Features used:
   - `kms_driven`
