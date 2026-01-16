@@ -1,6 +1,6 @@
 # 🏍️ Used Bike Price Predictor
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://used-bike-price.streamlit.app/)
+https://used-bike-price.streamlit.app/
 [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces/AdityaNamdev/bike-price-predictor)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
