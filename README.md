@@ -1,4 +1,4 @@
-# 🏍️ Used Bike Price Predictor
+# 🏍️ Used Bike Price Predictor - https://used-bike-price.streamlit.app/
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit)
