@@ -61,7 +61,7 @@ def price_counter(value):
 # HEADER
 # --------------------------------------------------
 st.title("Used Bike Price Predictor")
-st.caption("Search your bike model to auto-fill specifications and estimate its fair market value.")
+st.caption("Search your bike model to auto-fill specifications and estimate its fair market value with 94% accuracy..")
 
 h1, h2 = st.columns([4, 1])
 
